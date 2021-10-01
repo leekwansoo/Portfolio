@@ -5,7 +5,7 @@
 * Masters of Science (Electrical Engineering)
 
 # [Project 1: 나만의 꿀팁 만들기](http://leekwansoo.github.io/pasadena)
-![ 나만의 꿀팁 만들기](나만의 꿀팁.jpg)
+![ 나만의 꿀팁 만들기](imgs/나만의 꿀팁.jpg)
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
